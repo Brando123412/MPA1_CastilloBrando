@@ -335,9 +335,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
-  destruido: 0
-  ga: 0
-  impulse: 5
 --- !u!54 &1487196294
 Rigidbody:
   m_ObjectHideFlags: 0
